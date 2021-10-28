@@ -39,4 +39,4 @@ Juan Zamarrenho Carvalho Correa
 
 # License
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/juanzcc/CalculadoraIMC/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/juanzcc/FallingBallGame/blob/main/LICENSE) 
